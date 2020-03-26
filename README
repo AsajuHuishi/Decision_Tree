@@ -1,0 +1,8 @@
+##在西瓜数据集2.0上基于信息增益准则生成决策树
+
+ CSDN链接：https://blog.csdn.net/qq_36937684/article/details/105121742
+ 
+ main.py           递归函数生成决策树
+ shizuo_tr.py      非递归版本，根据每个根节点和属性生成下一根节点
+ watermelon20.xlsx 西瓜数据集2.0
+ 
